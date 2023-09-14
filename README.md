@@ -1,23 +1,38 @@
 # NomedoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0033681  | Luiz Henrique Fernandes Zamprogno |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de X exercícios sobre o assunto de grafos. Exercícios Executados:
+
+| Exercício | Dificuldade | Linguagem | Código |
+| -- | -- | -- | -- |
+| [Nome1](link) | Dificil | Python3 | [Exercicio1](link) |
+| [Nome2](link) | Dificil | Javascript |  [Exercicio1](link) |
+
+## Video
+
+[Video](link)
 
 ## Screenshots
+
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+
+Não é nessessario instalação, os exercicios devem ser rodados no site [leetcode]([link](https://leetcode.com/problemset/all/)).
+
+**Linguagem 1**: Python3<br>
+**Linguagem 2**: Javascript<br>
+
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
