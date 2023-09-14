@@ -15,7 +15,7 @@ A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de A
 
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
 | -- | -- | -- | -- | -- |
-| [2360 - Ciclo mais longo em um gráfico]([link](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2360%20-%20Ciclo%20mais%20longo%20em%20um%20gr%C3%A1fico.pdf)) | Dificil | [2360](link) | Python3 | [2360-CicloMaisLongo.py]([link](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2360-CicloMaisLongo.py)) |
+| [2360 - Ciclo mais longo em um gráfico](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2360%20-%20Ciclo%20mais%20longo%20em%20um%20gr%C3%A1fico.pdf)) | Dificil | [2360](link) | Python3 | [2360-CicloMaisLongo.py](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2360-CicloMaisLongo.py)) |
 | [Nome2](link) | Dificil | [Codigo](link) | Javascript |  [Exercicio1](link) |
 
 ## Video
