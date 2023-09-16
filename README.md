@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Grafos 1 - Exércicios
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
@@ -16,6 +16,7 @@ A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de A
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
 | -- | -- | -- | -- | -- |
 | [2360 - Ciclo mais longo em um gráfico](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2360%20-%20Ciclo%20mais%20longo%20em%20um%20gr%C3%A1fico.pdf) | Dificil | [2360](https://leetcode.com/problems/longest-cycle-in-a-graph/) | Python3 | [2360-CicloMaisLongo.py](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2360-CicloMaisLongo.py) |
+| [2065 - Qualidade máxima do caminho de um gráfico](link) | Dificil | [2065](link)  | Python3 | [2065-QuantCaminhosValidos.py](link) |
 | [2608 - Ciclo mais curto em um grafo](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2608%20-%20Ciclo%20mais%20Curto%20em%20um%20grafo.pdf) | Dificil | [2608](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | Javascript |  [2608-cicloMaisCurto.js](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2608-ciclomaisCurto.js) |
 | [785 - Verifica se o grafo é bipartido](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/785-verificaGrafoBiPartido.pdf) | médio | [785](https://leetcode.com/problems/is-graph-bipartite/description/) | Javascript |  [785-verificaGrafoBiPartido.js](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/785-verificaGrafoBiPartido.js) |
 
