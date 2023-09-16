@@ -11,7 +11,7 @@
 
 ## Sobre 
 
-A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de X exercícios sobre o assunto de grafos. Exercícios Executados:
+A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de 5 exercícios sobre o assunto de grafos. Exercícios Executados:
 
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
 | -- | -- | -- | -- | -- |
@@ -19,6 +19,7 @@ A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de A
 | [2065 - Qualidade máxima do caminho de um gráfico](link) | Dificil | [2065](link)  | Python3 | [2065-QuantCaminhosValidos.py](link) |
 | [2608 - Ciclo mais curto em um grafo](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2608%20-%20Ciclo%20mais%20Curto%20em%20um%20grafo.pdf) | Dificil | [2608](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | Javascript |  [2608-cicloMaisCurto.js](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2608-ciclomaisCurto.js) |
 | [785 - Verifica se o grafo é bipartido](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/785-verificaGrafoBiPartido.pdf) | médio | [785](https://leetcode.com/problems/is-graph-bipartite/description/) | Javascript |  [785-verificaGrafoBiPartido.js](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/785-verificaGrafoBiPartido.js) |
+| [1579- Remova o máximo de arestas para manter o grafo totalmente percorrível](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/1579-removeMaxAresta.pdf) | Dificil | [1579](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Javascript |  [1579-removeMaxAresta.js](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/1579-removeMaxAresta.js) |
 
 ## Video
 
