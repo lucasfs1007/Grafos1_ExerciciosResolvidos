@@ -52,7 +52,7 @@ A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de A
 
 ### 1579- Remova o máximo de arestas para manter o grafo totalmente percorrível
 
-![1579](maxarestasTentativa.png)
+![1579](numeromaximoTentativa.png)
 
 ## Instalação 
 
