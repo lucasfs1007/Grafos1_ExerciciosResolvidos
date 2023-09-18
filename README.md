@@ -44,10 +44,15 @@ A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de A
 
 ### 2608 - Ciclo mais curto em um grafo
 
+![2608](correct-2608.jpg)
+
 ### 785 - Verifica se o grafo é bipartido
+
+![785](correct-785.jpg)
 
 ### 1579- Remova o máximo de arestas para manter o grafo totalmente percorrível
 
+![1579](correct-1579.jpg)
 
 ## Instalação 
 
