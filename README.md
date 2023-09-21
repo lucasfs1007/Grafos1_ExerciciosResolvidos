@@ -26,7 +26,7 @@ A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de A
 
 ## Video
 
-[Video](link)
+[Video](https://youtu.be/F0Eox3h5700)
 
 ## Screenshots
 
