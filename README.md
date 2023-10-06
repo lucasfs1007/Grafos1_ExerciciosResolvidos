@@ -26,7 +26,8 @@ A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de A
 
 ## Video
 
-[Video](https://youtu.be/F0Eox3h5700)
+YOUTUBE: [Video](https://youtu.be/F0Eox3h5700)
+GITHUB: [Video](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_Resolvidos_Leet/blob/master/Apresentação%20-%20PA%20-%20Grafos%201.mp4)
 
 ## Screenshots
 
